@@ -1,0 +1,13 @@
+#queryIndex	queryItem	stringId	identity	bitscore	preferredName	annotation
+1	g5580.t1	1340429.A0A2G4T8E8	99.0	391.0	A0A2G4T8E8	Phosphatidyl-N-methylethanolamine N-methyltransferase; Catalyzes the second two steps of the methylation pathway of phosphatidylcholine biosynthesis, the SAM-dependent methylation of phosphatidylmonomethylethanolamine (PMME) to phosphatidyldimethylethanolamine (PDME) and of PDME to phosphatidylcholine (PC).
+2	g7379.t1	1340429.A0A2G4T5V2	87.8	94.0	A0A2G4T5V2	Rnase Hi.
+3	g11856.t1	1340429.A0A2G4T124	95.1	272.3	A0A2G4T124	Phosphatases II.
+4	g11876.t1	1340429.A0A2G4SSE2	100.0	232.6	A0A2G4SSE2	Ribosomal_L18e/L15P domain-containing protein; Belongs to the universal ribosomal protein uL15 family.
+5	g12220.t1	1340429.A0A2G4SHY7	98.6	2647.5	A0A2G4SHY7	Uncharacterized protein.
+6	g12588.t1	1340429.A0A2G4SFT2	99.4	331.3	A0A2G4SFT2	Uncharacterized protein.
+7	g17783.t1	1340429.A0A2G4T9X6	98.1	818.5	A0A2G4T9X6	ATP-NAD kinase.
+8	g18537.t1	1340429.A0A2G4SV59	100.0	246.5	A0A2G4SV59	Histone H2A; Belongs to the histone H2A family.
+9	g18624.t1	1340429.A0A2G4SVE8	98.2	326.6	A0A2G4SVE8	Uncharacterized protein.
+10	g19738.t1	1340429.A0A2G4SVM5	90.2	649.8	A0A2G4SVM5	P53-like transcription factor.
+11	g20387.t1	1340429.A0A2G4T4H6	98.7	1342.8	A0A2G4T4H6	ATP-dependent metallopeptidase Hfl; Belongs to the AAA ATPase family.
+12	g23630.t1	1340429.A0A2G4SQU9	98.3	1421.0	A0A2G4SQU9	PI3K/PI4K domain-containing protein.

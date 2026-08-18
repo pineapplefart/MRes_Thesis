@@ -1,0 +1,45 @@
+Condition,Group,mean,sd,n_runs
+Cellulose Ammonium Sulfate,Cellulose Ammonium Sulfate | 6205,2.0078371326471776,,1
+Cellulose Ammonium Sulfate,Cellulose Ammonium Sulfate | B2002,0.6486294737253631,,1
+Cellulose Ammonium Sulfate,Cellulose Ammonium Sulfate | NH,1.5702881725010285,,1
+Cellulose Ammonium Sulfate,Cellulose Ammonium Sulfate | UM1,1.5950896988212306,,1
+Coffee Ammonium Sulfate,Coffee Ammonium Sulfate | 6205,0.8576065508494134,,1
+Coffee Ammonium Sulfate,Coffee Ammonium Sulfate | B2002,0.517124313880016,,1
+Coffee Ammonium Sulfate,Coffee Ammonium Sulfate | NH,1.7574748933807383,,1
+Coffee Ammonium Sulfate,Coffee Ammonium Sulfate | UM1,0.9719600024001744,,1
+Dextrose + Ammonium Sulfate,Dextrose + Ammonium Sulfate | 6205,1.1913756877774244,0.04797311684606082,2
+Dextrose + Ammonium Sulfate,Dextrose + Ammonium Sulfate | B2002,1.1637105324382455,0.2485091789245555,2
+Dextrose + Ammonium Sulfate,Dextrose + Ammonium Sulfate | NH,1.5939734772814407,0.19229613995336,2
+Dextrose + Ammonium Sulfate,Dextrose + Ammonium Sulfate | UM1,2.9702337320183956,0.7753189395615633,2
+Dextrose + Ammonium Sulfate (agarose),Dextrose + Ammonium Sulfate (agarose) | 6205,0.8161674987143582,,1
+Dextrose + Ammonium Sulfate (agarose),Dextrose + Ammonium Sulfate (agarose) | B2002,0.9736256045662669,,1
+Dextrose + Ammonium Sulfate (agarose),Dextrose + Ammonium Sulfate (agarose) | NH,1.3117284754264171,,1
+Dextrose + Ammonium Sulfate (agarose),Dextrose + Ammonium Sulfate (agarose) | UM1,2.07883421249206,,1
+Dextrose Sodium Nitrate,Dextrose Sodium Nitrate | 6205,0.6619926603401729,,1
+Dextrose Sodium Nitrate,Dextrose Sodium Nitrate | B2002,1.0115970306117463,,1
+Dextrose Sodium Nitrate,Dextrose Sodium Nitrate | NH,2.0679332815886045,,1
+Dextrose Sodium Nitrate,Dextrose Sodium Nitrate | UM1,1.27853176590159,,1
+Dextrose Urea,Dextrose Urea | 6205,0.6668751377492966,,1
+Dextrose Urea,Dextrose Urea | B2002,0.713406240008442,,1
+Dextrose Urea,Dextrose Urea | NH,1.257905607753596,,1
+Dextrose Urea,Dextrose Urea | UM1,2.2529678724628117,,1
+Fructose Ammonium Sulfate,Fructose Ammonium Sulfate | 6205,1.12542532114617,,1
+Fructose Ammonium Sulfate,Fructose Ammonium Sulfate | B2002,0.9802716897404121,,1
+Fructose Ammonium Sulfate,Fructose Ammonium Sulfate | NH,2.3830656097324368,,1
+Fructose Ammonium Sulfate,Fructose Ammonium Sulfate | UM1,2.050313338365627,,1
+Glutamate Ammonium Sulfate,Glutamate Ammonium Sulfate | 6205,0.7849429369609703,,1
+Glutamate Ammonium Sulfate,Glutamate Ammonium Sulfate | B2002,0.834573063269624,,1
+Glutamate Ammonium Sulfate,Glutamate Ammonium Sulfate | NH,1.0994030088543068,,1
+Glutamate Ammonium Sulfate,Glutamate Ammonium Sulfate | UM1,3.968297512531402,,1
+Glycerol Ammonium Sulfate,Glycerol Ammonium Sulfate | 6205,1.0694910410212597,,1
+Glycerol Ammonium Sulfate,Glycerol Ammonium Sulfate | B2002,0.8632355029759603,,1
+Glycerol Ammonium Sulfate,Glycerol Ammonium Sulfate | NH,1.8503066502036232,,1
+Glycerol Ammonium Sulfate,Glycerol Ammonium Sulfate | UM1,2.67238080369046,,1
+Molasses Ammonium Sulfate,Molasses Ammonium Sulfate | 6205,1.1252037602598504,,1
+Molasses Ammonium Sulfate,Molasses Ammonium Sulfate | B2002,1.0932456857999255,,1
+Molasses Ammonium Sulfate,Molasses Ammonium Sulfate | NH,1.2143011077646995,,1
+Molasses Ammonium Sulfate,Molasses Ammonium Sulfate | UM1,1.8399350505692957,,1
+Xylose Ammonium Sulfate,Xylose Ammonium Sulfate | 6205,0.7935830350456586,,1
+Xylose Ammonium Sulfate,Xylose Ammonium Sulfate | B2002,1.63364542211195,,1
+Xylose Ammonium Sulfate,Xylose Ammonium Sulfate | NH,1.8981452824379133,,1
+Xylose Ammonium Sulfate,Xylose Ammonium Sulfate | UM1,0.24445928138145193,,1

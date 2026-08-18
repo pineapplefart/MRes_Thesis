@@ -1,0 +1,13 @@
+gene_id,expr,braker_description,contig,length
+g2874,4.69366152977821,Phosphoesterase family,contig_115,1901
+g2904,7.582597078872885,Peptidase S24-like,contig_115,633
+g13017,8.319344832217675,ATP12 chaperone protein,contig_4,1041
+g23814,8.76070394452509,Helicase associated domain (HA2)  Add an annotation,contig_98,3894
+g2441,9.075653443120654,"Phosphoinositide 3-kinase family, accessory domain (PIK domain)",contig_115,7873
+g19033,9.680851359683725,"Removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met-Ala-, Cys, Gly, Pro, Ser, Thr, or Val)",contig_68,1508
+g18375,9.720149163937615,"The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment",contig_67,2493
+g9750,10.2571977846458,Haemolysin-III related,contig_25,1422
+g17677,10.6631059713098,Domain of unknown function (DUF3336),contig_66,2318
+g2141,10.97738688430325,Autophagy-related protein 13,contig_114,2761
+g8748,12.07323432023145,Gdp-mannose transporter,contig_15,3483
+g17805,13.161775532555001,"Pyridoxal-dependent decarboxylase, pyridoxal binding domain",contig_66,1357

@@ -1,0 +1,167 @@
+Condition,Bio_Replicate,Experiment,Plate,Role,Strain,Replicate,Group,Max_radial_rate_mm_per_h,Window_start_h,Baseline_Frame_used,Baseline_source,Start_Offset_h,Final_radius_mm,Final_area_mm2
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,A1,sample,B2002,3.0,Cellulose Ammonium Sulfate | B2002,0.5580090776030329,28.5,3,auto,0.0,10.635653525992995,355.36793180106855
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,A2,sample,UM1,2.0,Cellulose Ammonium Sulfate | UM1,0.7922124952516166,27.0,3,auto,0.0,13.800698157193885,598.3454422650397
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,A3,sample,NH,1.0,Cellulose Ammonium Sulfate | NH,2.684416609208325,1.5,3,auto,0.0,25.10691653256593,1980.3257301573944
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,B2,sample,B2002,2.0,Cellulose Ammonium Sulfate | B2002,0.710922452310046,33.5,4,auto,0.0,11.542644899758763,418.5627184855926
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,B3,sample,UM1,1.0,Cellulose Ammonium Sulfate | UM1,2.6004785284358656,30.5,3,auto,0.0,16.82980739280371,889.8322960516765
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,C1,sample,6205,3.0,Cellulose Ammonium Sulfate | 6205,3.74731439502162,37.0,5,auto,0.0,20.737308106723564,1350.997773486941
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,C3,minus_variable_control,B2002,,Cellulose Ammonium Sulfate | no cellulose,1.1997760799739643,34.5,2,auto,0.0,19.267718093051243,1166.3004406307978
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,D1,contamination_control,,,Cellulose Ammonium Sulfate | contamination_control,0.21468201054381666,22.0,2,auto,0.0,1.036366995063783,3.3742481621742035
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,D2,sample,6205,2.0,Cellulose Ammonium Sulfate | 6205,1.410438990273762,27.5,3,auto,0.0,16.632907851713345,869.132991502026
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,D3,sample,B2002,1.0,Cellulose Ammonium Sulfate | B2002,0.6769568912630103,33.5,4,auto,0.0,12.853807111666786,519.0550606038612
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,E1,sample,UM1,3.0,Cellulose Ammonium Sulfate | UM1,1.3925780727762098,34.0,2,auto,0.0,15.550531204084836,759.6968590211834
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,E2,sample,NH,2.0,Cellulose Ammonium Sulfate | NH,0.4561597357937323,39.0,3,auto,0.0,9.773797881358702,300.1073141991415
+Cellulose Ammonium Sulfate,1,Cellulose Ammonium Sulfate,E3,sample,6205,1.0,Cellulose Ammonium Sulfate | 6205,0.8657580126461498,39.0,2,auto,0.0,17.71570212825041,985.9766080770825
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,A1,sample,B2002,3.0,Coffee Ammonium Sulfate | B2002,0.5155120101936921,37.5,0,auto,4.0,17.02310790260357,910.3902053999128
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,A2,sample,B2002,2.0,Coffee Ammonium Sulfate | B2002,0.5063931710598583,31.5,0,auto,4.0,17.018383398517965,909.8849456775074
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,A3,sample,B2002,1.0,Coffee Ammonium Sulfate | B2002,0.5294677603864978,32.0,0,auto,4.0,17.785113914859267,993.7180423666911
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,B1,sample,NH,3.0,Coffee Ammonium Sulfate | NH,3.373550339224468,28.0,0,auto,4.0,30.799493112114426,2980.1423616967445
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,B2,sample,NH,2.0,Coffee Ammonium Sulfate | NH,0.9646991471758237,23.5,0,auto,4.0,28.616513561512548,2572.6654557734964
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,B3,sample,NH,1.0,Coffee Ammonium Sulfate | NH,0.9341751937419231,24.0,0,auto,4.0,28.45170705842703,2543.11810494992
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,C1,contamination_control,,,Coffee Ammonium Sulfate | contamination_control,0.17657629585564077,32.5,0,auto,4.0,2.0048626706301187,12.627551020408163
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,C3,minus_variable_control,B2002,,Coffee Ammonium Sulfate | no coffee,0.7314899088510872,33.5,0,auto,4.0,26.481012222597236,2203.023024953894
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,D1,sample,UM1,3.0,Coffee Ammonium Sulfate | UM1,1.0019033239067352,43.5,0,auto,4.0,15.697074732350101,774.0826340866925
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,D2,sample,UM1,2.0,Coffee Ammonium Sulfate | UM1,0.8480195750420855,41.0,0,auto,4.0,15.757745583363565,780.0780203434928
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,D3,sample,UM1,1.0,Coffee Ammonium Sulfate | UM1,1.0659571082517028,41.0,0,auto,4.0,15.83186461092107,787.4337177005303
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,E1,sample,6205,3.0,Coffee Ammonium Sulfate | 6205,0.8277159909627388,40.5,0,auto,4.0,21.725994833845284,1482.890956291978
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,E2,sample,6205,2.0,Coffee Ammonium Sulfate | 6205,0.8194473154196924,39.0,0,auto,4.0,21.861575495348582,1501.4566115702478
+Coffee Ammonium Sulfate,1,Coffee Ammonium Sulfate,E3,sample,6205,1.0,Coffee Ammonium Sulfate | 6205,0.9256563461658093,36.0,0,auto,4.0,24.076022010236784,1821.0393738845928
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,A1,sample,NH,1.0,Dextrose + Ammonium Sulfate | NH,1.3293610819253672,19.5,6,auto,0.0,32.361702702096466,3290.126531521497
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,A2,sample,UM1,2.0,Dextrose + Ammonium Sulfate | UM1,1.4796467446777848,22.5,3,auto,0.0,28.972937630549744,2637.1506239018972
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,A3,sample,NH,2.0,Dextrose + Ammonium Sulfate | NH,1.5660095151401157,19.0,4,auto,0.0,35.07035501455835,3863.9384267725895
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,B1,sample,B2002,1.0,Dextrose + Ammonium Sulfate | B2002,0.9866625578716094,29.0,5,auto,0.0,22.708087801491892,1619.9850333976958
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,B2,sample,UM1,3.0,Dextrose + Ammonium Sulfate | UM1,1.7435309350269406,20.5,6,auto,0.0,33.91908947571202,3614.416896235078
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,B3,minus_variable_control,NH,,Dextrose + Ammonium Sulfate | no ammonium sulfate,0.987035623583079,27.0,3,auto,0.0,25.937019772217443,2113.4404674945217
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,C1,sample,UM1,1.0,Dextrose + Ammonium Sulfate | UM1,4.042823677111428,26.0,5,auto,0.0,30.843029376156306,2988.5734072022155
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,C3,sample,B2002,3.0,Dextrose + Ammonium Sulfate | B2002,1.0123006484872394,25.5,3,auto,0.0,24.442048847351725,1876.830653985355
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,D1,sample,6205,1.0,Dextrose + Ammonium Sulfate | 6205,1.1857758040187492,25.5,3,auto,0.0,28.0245126740285,2467.3230229591836
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,D2,sample,B2002,2.0,Dextrose + Ammonium Sulfate | B2002,0.9650008141419252,29.0,4,auto,0.0,22.663315834410707,1613.6033057851237
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,D3,sample,NH,3.0,Dextrose + Ammonium Sulfate | NH,1.4786281211077843,19.5,0,auto,0.0,35.100861197640704,3870.663495838288
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,E2,sample,6205,2.0,Dextrose + Ammonium Sulfate | 6205,1.1433524809856517,24.0,4,auto,0.0,28.09846011799913,2480.3611049231454
+Dextrose + Ammonium Sulfate,2,Dextrose AS V4,E3,sample,6205,3.0,Dextrose + Ammonium Sulfate | 6205,1.1432324296183598,23.0,4,auto,0.0,28.801558059758737,2606.0445580715855
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),A1,contamination_control,,,Dextrose + Ammonium Sulfate (agarose) | contamination_control,0.0,,0,auto,9.8,0.0,0.0
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),A2,sample,UM1,1.0,Dextrose + Ammonium Sulfate (agarose) | UM1,1.7208836830299297,25.3,0,auto,9.8,17.85401421073447,1001.4323691255206
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),A3,sample,B2002,3.0,Dextrose + Ammonium Sulfate (agarose) | B2002,0.9132664673296954,20.8,0,auto,9.8,16.767017196099115,883.204945422143
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),B1,sample,NH,1.0,Dextrose + Ammonium Sulfate (agarose) | NH,1.4444763555558673,24.8,0,auto,9.8,26.915487217147973,2275.906227173119
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),B2,sample,6205,2.0,Dextrose + Ammonium Sulfate (agarose) | 6205,0.788262743738743,19.3,0,auto,9.8,14.183225480375297,631.9749833689298
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),B3,sample,UM1,2.0,Dextrose + Ammonium Sulfate (agarose) | UM1,1.964473182850963,27.8,0,auto,9.8,16.28986119644272,833.6517001741906
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),C1,sample,B2002,1.0,Dextrose + Ammonium Sulfate (agarose) | B2002,1.0205238842933222,17.3,0,auto,9.8,16.967877023065956,904.4923301680059
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),C3,sample,NH,3.0,Dextrose + Ammonium Sulfate (agarose) | NH,1.1877390095823162,25.3,0,auto,9.8,23.268602999426275,1700.9458676765428
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),D1,sample,6205,1.0,Dextrose + Ammonium Sulfate (agarose) | 6205,0.8332425276443913,21.8,0,auto,9.8,14.748442416923986,683.3484072176432
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),D2,minus_variable_control,6205,,Dextrose + Ammonium Sulfate (agarose) | no ammonium sulfate,0.5579945726654324,24.8,0,auto,9.8,9.594749827250737,289.21258259120947
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),D3,sample,UM1,3.0,Dextrose + Ammonium Sulfate (agarose) | UM1,2.5511457715952877,25.8,0,auto,9.8,18.522529912507796,1077.8305332359387
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),E1,sample,B2002,2.0,Dextrose + Ammonium Sulfate (agarose) | B2002,0.9870864620757827,21.8,0,auto,9.8,17.828418139327063,998.5630580357142
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),E2,sample,NH,2.0,Dextrose + Ammonium Sulfate (agarose) | NH,1.3029700611410684,23.8,0,auto,9.8,24.044723857903307,1816.3078512396692
+Dextrose + Ammonium Sulfate (agarose),1,Dextrose Ammonium Sulfate Agarose Part 2 (power issue),E3,sample,6205,3.0,Dextrose + Ammonium Sulfate (agarose) | 6205,0.8269972247599402,25.3,0,auto,9.8,14.144009469035424,628.4850472556609
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,A1,sample,NH,3.0,Dextrose + Ammonium Sulfate | NH,2.278221624486892,20.5,0,auto,0.0,32.661119064562556,3351.2898745896814
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,A2,sample,NH,2.0,Dextrose + Ammonium Sulfate | NH,1.5291878108120258,21.5,0,auto,0.0,33.944788027464654,3619.895844404294
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,A3,sample,NH,1.0,Dextrose + Ammonium Sulfate | NH,1.3824327102164582,17.5,2,auto,0.0,33.38246074272556,3500.955306792358
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,B1,sample,UM1,3.0,Dextrose + Ammonium Sulfate | UM1,4.76412048923033,26.5,0,auto,0.0,31.626937740358805,3142.4194919757683
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,B2,sample,UM1,2.0,Dextrose + Ammonium Sulfate | UM1,1.286911492154165,19.0,0,auto,0.0,29.819610824007828,2793.5330578512394
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,B3,sample,UM1,1.0,Dextrose + Ammonium Sulfate | UM1,4.504369053909723,25.0,5,auto,0.0,33.04467420537717,3430.463647959184
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,C1,minus_variable_control,NH,,Dextrose + Ammonium Sulfate | no ammonium sulfate,2.9448901999836963,24.0,0,auto,0.0,34.921780783491194,3831.2689175669007
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,C3,contamination_control,,,Dextrose + Ammonium Sulfate | contamination_control,0.362232660271262,3.5,0,auto,0.0,3.1711758611316165,31.592975206611566
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,D1,sample,6205,3.0,Dextrose + Ammonium Sulfate | 6205,1.171307644341159,25.0,0,auto,0.0,29.749798425204308,2780.468168774578
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,D2,sample,6205,2.0,Dextrose + Ammonium Sulfate | 6205,1.3648388515163956,21.5,0,auto,0.0,31.348227823778213,3087.2788761706556
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,D3,sample,6205,1.0,Dextrose + Ammonium Sulfate | 6205,1.139746916184231,26.5,3,auto,0.0,27.02303724073938,2294.1308875739646
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,E1,sample,B2002,3.0,Dextrose + Ammonium Sulfate | B2002,1.1250500374277244,27.0,0,auto,0.0,23.430195601785964,1724.6528925619832
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,E2,sample,B2002,2.0,Dextrose + Ammonium Sulfate | B2002,1.01694146875092,26.0,1,auto,0.0,23.430008571001324,1724.6253586991181
+Dextrose + Ammonium Sulfate,1,Dextrose Ammonium Sulfate Fresh Spores,E3,sample,B2002,1.0,Dextrose + Ammonium Sulfate | B2002,1.8763076679500545,17.5,0,auto,0.0,20.66620443912677,1341.7491082045185
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,A1,sample,UM1,3.0,Dextrose Sodium Nitrate | UM1,1.2094078719511814,23.0,0,auto,1.5,25.00326025431507,1964.0075614366729
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,A2,sample,6205,2.0,Dextrose Sodium Nitrate | 6205,0.6966469668902588,25.5,0,auto,1.5,14.733237060842995,681.940095840012
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,A3,sample,NH,1.0,Dextrose Sodium Nitrate | NH,3.5640067215733517,24.0,0,auto,1.5,30.967482982746663,3012.740238086701
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,B1,contamination_control,,,Dextrose Sodium Nitrate | contamination_control,0.0,,0,auto,1.5,0.0,0.0
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,B2,sample,UM1,2.0,Dextrose Sodium Nitrate | UM1,1.4843417006801973,22.0,0,auto,1.5,27.72107262461909,2414.1815910037485
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,B3,sample,6205,1.0,Dextrose Sodium Nitrate | 6205,0.658446991922144,22.5,0,auto,1.5,14.860969628598607,693.8157684948978
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,C1,sample,B2002,3.0,Dextrose Sodium Nitrate | B2002,0.8564288818484451,38.5,0,auto,1.5,28.29325306224288,2514.8705823792925
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,C3,sample,UM1,1.0,Dextrose Sodium Nitrate | UM1,1.1418457250733913,21.5,0,auto,1.5,26.416421499892113,2192.289197254275
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,D1,sample,NH,3.0,Dextrose Sodium Nitrate | NH,1.3922956534686426,21.5,0,auto,1.5,32.68438812897437,3356.0667567473124
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,D2,sample,B2002,2.0,Dextrose Sodium Nitrate | B2002,0.8176039773455833,40.0,0,auto,1.5,27.113022774147797,2309.435037550183
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,D3,minus_variable_control,6205,,Dextrose Sodium Nitrate | no sodium nitrate,0.7578999764519003,16.0,0,auto,1.5,14.24510864040015,637.5017835909632
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,E1,sample,6205,3.0,Dextrose Sodium Nitrate | 6205,0.630884022208116,26.5,0,auto,1.5,14.369187341423316,648.6557716705763
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,E2,sample,NH,2.0,Dextrose Sodium Nitrate | NH,1.2474974697238181,27.0,0,auto,1.5,29.918043246552124,2812.0060059515167
+Dextrose Sodium Nitrate,1,Dextrose Sodium Nitrate,E3,sample,B2002,1.0,Dextrose Sodium Nitrate | B2002,1.3607582326412109,17.5,0,auto,1.5,25.51593279570469,2045.3741925533457
+Dextrose Urea,1,Dextrose Urea,A1,sample,UM1,3.0,Dextrose Urea | UM1,1.4274607702293496,28.0,0,auto,0.0,20.268843297077314,1290.647970526014
+Dextrose Urea,1,Dextrose Urea,A2,sample,UM1,2.0,Dextrose Urea | UM1,2.2828066696050406,28.0,0,auto,0.0,18.44231903422143,1068.515764425937
+Dextrose Urea,1,Dextrose Urea,A3,sample,UM1,1.0,Dextrose Urea | UM1,3.048636177554046,32.5,0,auto,0.0,20.92343289342398,1375.3579861884607
+Dextrose Urea,1,Dextrose Urea,B1,sample,B2002,3.0,Dextrose Urea | B2002,0.7174904839954069,25.5,0,auto,0.0,21.164656817464092,1407.2534898975434
+Dextrose Urea,1,Dextrose Urea,B2,sample,B2002,2.0,Dextrose Urea | B2002,0.7078019484002891,22.0,0,auto,0.0,20.624704853799262,1336.3658144777796
+Dextrose Urea,1,Dextrose Urea,B3,sample,B2002,1.0,Dextrose Urea | B2002,0.71492628762963,22.0,0,auto,0.0,20.5046789125221,1320.8570501730105
+Dextrose Urea,1,Dextrose Urea,C1,contamination_control,,,Dextrose Urea | contamination_control,0.0,,4,auto,0.0,0.0,0.0
+Dextrose Urea,1,Dextrose Urea,C3,minus_variable_control,NH,,Dextrose Urea | no urea,0.8005899934142594,31.0,0,auto,0.0,13.77695217618752,596.2881440489278
+Dextrose Urea,1,Dextrose Urea,D1,sample,6205,3.0,Dextrose Urea | 6205,0.6645379365351551,23.5,0,auto,0.0,9.440461160606855,279.9859847063239
+Dextrose Urea,1,Dextrose Urea,D2,sample,6205,2.0,Dextrose Urea | 6205,0.5877053129106661,22.5,0,auto,0.0,10.400986743742468,339.8591433664853
+Dextrose Urea,1,Dextrose Urea,D3,sample,6205,1.0,Dextrose Urea | 6205,0.7483821638020687,22.0,0,auto,0.0,9.356025796273888,275.0
+Dextrose Urea,1,Dextrose Urea,E1,sample,NH,3.0,Dextrose Urea | NH,1.3915838454318008,25.5,0,auto,0.0,31.62853819571761,3142.7375391676082
+Dextrose Urea,1,Dextrose Urea,E2,sample,NH,2.0,Dextrose Urea | NH,1.1765476153527668,25.5,0,auto,0.0,27.34161054709857,2348.5405253092636
+Dextrose Urea,1,Dextrose Urea,E3,sample,NH,1.0,Dextrose Urea | NH,1.2055853624762205,25.0,0,auto,0.0,27.88413447301988,2442.6666875829183
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,A1,sample,UM1,3.0,Fructose Ammonium Sulfate | UM1,1.8730451958088545,25.5,4,auto,0.0,28.22500553600128,2502.7527327483645
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,A2,sample,NH,2.0,Fructose Ammonium Sulfate | NH,1.39869354305055,22.0,4,auto,0.0,33.148945200540666,3452.1471547194596
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,A3,sample,6205,1.0,Fructose Ammonium Sulfate | 6205,1.1098528890161934,27.5,3,auto,0.0,27.143544812300874,2314.6375810394306
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,B1,minus_variable_control,B2002,,Fructose Ammonium Sulfate | no fructose,0.8489337686263416,33.0,0,auto,0.0,22.288475955079967,1560.6683359917433
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,B2,sample,6205,2.0,Fructose Ammonium Sulfate | 6205,1.0105405114981776,26.0,5,auto,0.0,25.6233156470049,2062.626180472933
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,B3,sample,B2002,1.0,Fructose Ammonium Sulfate | B2002,0.9897308453615763,30.0,0,auto,0.0,22.352189816588766,1569.6037455410226
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,C1,sample,6205,3.0,Fructose Ammonium Sulfate | 6205,1.2558825629241392,28.5,4,auto,0.0,29.628480825307097,2757.8372966673282
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,C3,sample,UM1,1.0,Fructose Ammonium Sulfate | UM1,1.5895178253017388,24.5,0,auto,0.0,28.633029788955664,2575.6359776455215
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,D1,sample,NH,3.0,Fructose Ammonium Sulfate | NH,4.3519614408359155,29.0,0,auto,0.0,30.282039295006992,2880.846444508088
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,D2,sample,B2002,2.0,Fructose Ammonium Sulfate | B2002,1.0511888715492508,27.0,3,auto,0.0,22.56499279109624,1599.6326905417816
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,D3,sample,NH,1.0,Fructose Ammonium Sulfate | NH,1.398541845310844,26.0,0,auto,0.0,33.9049800560109,3611.410523186683
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,E1,sample,B2002,3.0,Fructose Ammonium Sulfate | B2002,0.8998953523104092,27.0,3,auto,0.0,22.1359514283436,1539.3814861127594
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,E2,sample,UM1,2.0,Fructose Ammonium Sulfate | UM1,2.6883769939862883,26.5,0,auto,0.0,31.87218143607859,3191.342756183745
+Fructose Ammonium Sulfate,1,Fructose Ammonium Sulfate,E3,contamination_control,,,Fructose Ammonium Sulfate | contamination_control,0.1303410237530357,6.0,0,auto,0.0,0.5954677718991587,1.1139517896274653
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,A1,sample,NH,1.0,Glutamate Ammonium Sulfate | NH,1.201977242464563,23.5,2,auto,0.0,28.907474929965826,2625.247103836752
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,A2,sample,UM1,2.0,Glutamate Ammonium Sulfate | UM1,4.1342515711354935,29.5,2,auto,0.0,30.17199571844786,2859.94675361231
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,A3,sample,B2002,3.0,Glutamate Ammonium Sulfate | B2002,0.794600669891927,25.0,2,auto,0.0,24.394773903484595,1869.5774766433804
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,B1,sample,B2002,1.0,Glutamate Ammonium Sulfate | B2002,0.7869447706982933,24.5,3,auto,0.0,24.215112959902672,1842.141011361105
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,B2,sample,NH,2.0,Glutamate Ammonium Sulfate | NH,0.9829816157316921,24.0,2,auto,0.0,24.522861702822667,1889.2619180182733
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,B3,sample,6205,3.0,Glutamate Ammonium Sulfate | 6205,0.7646884404359932,29.0,2,auto,0.0,18.91088824637167,1123.5016874727826
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,C1,sample,6205,1.0,Glutamate Ammonium Sulfate | 6205,0.7950560029747913,29.0,2,auto,0.0,20.967911383655288,1381.2116018883787
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,C3,sample,UM1,3.0,Glutamate Ammonium Sulfate | UM1,3.6208817818592327,28.0,2,auto,0.0,27.938883181799486,2452.268142861055
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,D1,sample,UM1,1.0,Glutamate Ammonium Sulfate | UM1,4.14975918459948,29.5,2,auto,0.0,28.253026928871275,2507.7245957187424
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,D2,sample,B2002,2.0,Glutamate Ammonium Sulfate | B2002,0.9221737492186517,25.0,2,auto,0.0,27.91266101038676,2447.667127218621
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,D3,contamination_control,,,Glutamate Ammonium Sulfate | contamination_control,0.10099727162263403,39.0,2,auto,0.0,0.5653540627712762,1.0041322314049586
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,E1,minus_variable_control,NH,,Glutamate Ammonium Sulfate | no glutamate,4.165986754000406,28.0,2,auto,0.0,32.225408632649575,3262.4715933002276
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,E2,sample,6205,2.0,Glutamate Ammonium Sulfate | 6205,0.7950843674721265,27.0,2,auto,0.0,20.33957279108797,1299.6712929145363
+Glutamate Ammonium Sulfate,1,Glutamate Ammonium Sulfate,E3,sample,NH,3.0,Glutamate Ammonium Sulfate | NH,1.1132501683666651,23.5,2,auto,0.0,26.728504065788687,2244.394411244845
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,A1,sample,6205,3.0,Glycerol Ammonium Sulfate | 6205,1.0363082739348228,34.0,2,auto,0.0,19.4014639589536,1182.5482653505587
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,A2,sample,B2002,2.0,Glycerol Ammonium Sulfate | B2002,0.9112857439317604,29.5,0,auto,0.0,24.15688170965129,1833.2918934133986
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,A3,sample,UM1,1.0,Glycerol Ammonium Sulfate | UM1,3.4785525565823505,34.0,3,auto,0.0,28.15690490886092,2490.69013705993
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,B1,contamination_control,,,Glycerol Ammonium Sulfate | contamination_control,0.14858838057229679,33.5,1,auto,0.0,0.7765821786198503,1.8946313210069057
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,B2,sample,6205,2.0,Glycerol Ammonium Sulfate | 6205,0.9573858063937395,36.5,1,auto,0.0,19.331653979735975,1174.0535302647236
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,B3,sample,NH,1.0,Glycerol Ammonium Sulfate | NH,1.6517534269800402,31.0,0,auto,0.0,28.532537586314746,2557.588489866767
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,C1,sample,UM1,3.0,Glycerol Ammonium Sulfate | UM1,2.1502614402154556,34.5,1,auto,0.0,20.602962926651454,1333.549788371575
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,C3,sample,NH,2.0,Glycerol Ammonium Sulfate | NH,2.3469563990027322,34.5,0,auto,0.0,32.45825361985093,3309.7879575196657
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,D1,sample,NH,3.0,Glycerol Ammonium Sulfate | NH,1.552210124628097,41.0,2,auto,0.0,24.944897732186195,1954.8495031974749
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,D2,minus_variable_control,6205,,Glycerol Ammonium Sulfate | no glycerol,0.8756179609160527,40.5,1,auto,0.0,13.61336017892451,582.2111828915126
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,D3,sample,B2002,1.0,Glycerol Ammonium Sulfate | B2002,0.8135723205774924,33.5,2,auto,0.0,23.717626654420805,1767.2269650892727
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,E1,sample,B2002,3.0,Glycerol Ammonium Sulfate | B2002,0.8648484444186278,26.0,5,auto,0.0,24.29656370636045,1854.5544249806364
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,E2,sample,UM1,2.0,Glycerol Ammonium Sulfate | UM1,2.388328414273574,36.0,4,auto,0.0,27.826811565732484,2432.6339693630744
+Glycerol Ammonium Sulfate,1,Glycerol Ammonium Sulfate,E3,sample,6205,1.0,Glycerol Ammonium Sulfate | 6205,1.2147790427352172,30.5,0,auto,0.0,22.004792856107155,1521.1934333720421
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,A1,sample,UM1,3.0,Molasses Ammonium Sulfate | UM1,2.3616156638400234,17.5,5,auto,0.0,35.09736606588768,3869.892699630679
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,A2,sample,NH,2.0,Molasses Ammonium Sulfate | NH,1.1617476402648717,16.5,0,auto,0.0,34.97891080234457,3843.8146410944983
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,A3,sample,6205,1.0,Molasses Ammonium Sulfate | 6205,1.1194839795848852,37.5,0,auto,0.0,27.137694971757785,2313.640010398365
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,B1,contamination_control,,,Molasses Ammonium Sulfate | contamination_control,0.31380888057197515,30.5,0,auto,0.0,1.7715237825959265,9.85924926783751
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,B2,sample,UM1,2.0,Molasses Ammonium Sulfate | UM1,1.6347803028649626,17.0,0,auto,0.0,35.098405665615914,3870.1219589417565
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,B3,minus_variable_control,6205,,Molasses Ammonium Sulfate | no molasses,2.252144999282391,30.5,0,auto,0.0,20.614077965430855,1334.9890430971514
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,C1,sample,B2002,3.0,Molasses Ammonium Sulfate | B2002,1.2185564716372386,29.5,0,auto,0.0,35.10210164589571,3870.9370755998193
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,C3,sample,NH,1.0,Molasses Ammonium Sulfate | NH,1.2436646574876185,17.0,0,auto,0.0,35.09843633039672,3870.1287214422828
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,D1,sample,6205,3.0,Molasses Ammonium Sulfate | 6205,1.094895464401496,31.0,0,auto,0.0,31.15956789894191,3050.23096608494
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,D2,sample,B2002,2.0,Molasses Ammonium Sulfate | B2002,0.9963034598543373,27.5,0,auto,0.0,31.25923342114935,3069.774821614257
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,D3,sample,UM1,1.0,Molasses Ammonium Sulfate | UM1,1.5234091850029006,16.5,0,auto,0.0,35.10396338681166,3871.3476990504023
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,E1,sample,NH,3.0,Molasses Ammonium Sulfate | NH,1.237491025541608,20.5,0,auto,0.0,34.90471468615087,3827.5251891426733
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,E2,sample,6205,2.0,Molasses Ammonium Sulfate | 6205,1.1612318367931693,30.5,0,auto,0.0,31.99442098544348,3215.869247626005
+Molasses Ammonium Sulfate,1,Molasses Ammonium Sulfate,E3,sample,B2002,1.0,Molasses Ammonium Sulfate | B2002,1.0648771259082008,26.5,0,auto,0.0,33.40205994204941,3505.06741009
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,A1,sample,NH,3.0,Xylose Ammonium Sulfate | NH,1.960906517538684,27.5,0,auto,0.0,27.837299251101804,2434.4679924517345
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,A2,sample,UM1,2.0,Xylose Ammonium Sulfate | UM1,0.38596095972268263,41.5,0,auto,0.0,4.365779032099608,59.87883940907642
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,A3,sample,B2002,1.0,Xylose Ammonium Sulfate | B2002,0.8445035801343929,37.5,0,auto,0.0,16.10459891038854,814.7975206611569
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,B1,minus_variable_control,NH,,Xylose Ammonium Sulfate | no xylose,1.3474437241861148,32.5,1,auto,0.0,26.06146673272035,2133.7698819336156
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,B2,sample,NH,2.0,Xylose Ammonium Sulfate | NH,2.173107553479707,30.5,0,auto,0.0,24.43714992171821,1876.0783821578402
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,B3,sample,UM1,1.0,Xylose Ammonium Sulfate | UM1,0.12370063088549503,34.5,0,auto,0.0,0.8625779035706653,2.3374726077428782
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,C1,sample,6205,3.0,Xylose Ammonium Sulfate | 6205,0.8148794843477115,41.5,0,auto,0.0,8.120953138346099,207.18765812109967
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,C3,sample,NH,1.0,Xylose Ammonium Sulfate | NH,1.5604217762953492,26.0,0,auto,0.0,27.745239741064168,2418.3927728988238
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,D1,sample,B2002,3.0,Xylose Ammonium Sulfate | B2002,2.4817007977731644,35.0,0,auto,0.0,17.147279772481372,923.719985957262
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,D2,sample,6205,2.0,Xylose Ammonium Sulfate | 6205,0.7787484281004325,40.5,0,auto,0.0,9.515663480278642,284.4644649762047
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,D3,contamination_control,,,Xylose Ammonium Sulfate | contamination_control,0.23494839204588636,31.0,0,auto,0.0,2.993338589440111,28.14890865770285
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,E1,sample,UM1,3.0,Xylose Ammonium Sulfate | UM1,0.22371625353617816,39.0,0,auto,0.0,0.9135518341349341,2.6219008264462804
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,E2,sample,B2002,2.0,Xylose Ammonium Sulfate | B2002,1.5747318884282924,37.5,0,auto,0.0,15.065004936370599,712.9981932192583
+Xylose Ammonium Sulfate,1,Xylose Ammonium Sulfate,E3,sample,6205,1.0,Xylose Ammonium Sulfate | 6205,0.7871211926888317,41.5,0,auto,0.0,12.826914936253866,516.8854437869824

@@ -1,0 +1,13 @@
+#queryIndex	queryItem	stringId	identity	bitscore	preferredName	annotation
+1	g2141.t1	1340429.A0A2G4T5D0	94.9	1189.1	A0A2G4T5D0	Autophagy-related protein 13; Belongs to the ATG13 family. Fungi subfamily.
+2	g2441.t1	1340429.A0A2G4STX3	97.4	3809.6	A0A2G4STX3	Uncharacterized protein; Belongs to the PI3/PI4-kinase family.
+3	g2874.t1	1340429.A0A2G4SSQ6	98.5	1270.8	A0A2G4SSQ6	Phosphoesterase-domain-containing protein.
+4	g2904.t1	1340429.A0A2G4SRQ9	97.8	287.3	A0A2G4SRQ9	LexA/Signal peptidase.
+5	g8748.t1	1340429.A0A2G4SQ68	95.4	1927.1	A0A2G4SQ68	Uncharacterized protein.
+6	g9750.t1	1340429.A0A2G4T7S3	97.2	583.6	A0A2G4T7S3	HlyIII-domain-containing protein.
+7	g13017.t1	1340429.A0A2G4T7S4	97.1	527.3	A0A2G4T7S4	ATP12-domain-containing protein.
+8	g17677.t1	1340429.A0A2G4T9P0	96.0	1030.0	A0A2G4T9P0	Patatin-domain-containing protein.
+9	g17805.t1	1340429.A0A2G4T9Z7	99.1	880.2	A0A2G4T9Z7	Ornithine decarboxylase; Belongs to the Orn/Lys/Arg decarboxylase class-II family.
+10	g18375.t1	1340429.A0A2G4SUP6	98.2	1124.0	A0A2G4SUP6	Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit; The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment.
+11	g19033.t1	1340429.A0A2G4SNC0	95.1	738.4	A0A2G4SNC0	Methionine aminopeptidase; Cotranslationally removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met- Ala-, Cys, Gly, Pro, Ser, Thr, or Val).
+12	g23814.t1	1340429.A0A2G4SYW6	96.6	1851.3	A0A2G4SYW6	P-loop containing nucleoside triphosphate hydrolase protein.
