@@ -1,2 +1,0 @@
-makeblastdb -in assembly.fasta -dbtype nucl -out u6_db
-blastn -query /Users/wilsonporteus/Library/CloudStorage/OneDrive-ImperialCollegeLondon/Research documentation/Code/RNU6-1_datasets/ncbi_dataset/data -db u6_db -out u6_promoter.out -outfmt 6
